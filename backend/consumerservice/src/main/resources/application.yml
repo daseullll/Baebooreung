@@ -14,6 +14,5 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://k7c207.p.ssafy.io:3306/93pro?useSSL=false&useUnicode=true&serverTimezone=Asia/Seoul&characterEncoding=utf8
     username: baebooreung
-    password: baebooreung93pro
 server:
   port: 8081
